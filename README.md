@@ -1,7 +1,6 @@
 # KMeansClusteringCustomerChurn
 
-Problem Statement
-K-Means Clustering:
+Problem StatementK-Means Clustering:
     - Load customer data.
     - Check the number of cells in each column with null values.
     - Create a scatter plot with Age as X and Spending Score as Y.
